@@ -4,3 +4,4 @@ In this repo, we're diving deep into the realm of 3D elevation maps with inset m
 Follow the code in this repo to re-create the stunning 3D elevation map of Sicily with an inset map of Italy!
 
 
+![alt text](https://github.com/milos-agathon/3d-elevation-inset-maps/blob/main/final_img.png?raw=true)
