@@ -169,7 +169,7 @@ rayshader::plot_gg(
     zoom = .7,
     phi = 87,
     theta = 0,
-    window.size = c(w / 4, h / 4)
+    windowsize = c(w / 4, h / 4)
 )
 
 # 6. RENDER OBJECT
